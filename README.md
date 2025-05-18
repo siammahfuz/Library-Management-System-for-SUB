@@ -43,7 +43,7 @@ Run the project:
 
 Place files in your web server directory (e.g., htdocs for XAMPP)
 
-Access via http://localhost/library-management-sub/
+Access via http://localhost/library
 
 Usage
 Admin Panel: Add/manage books, users, and view reports
